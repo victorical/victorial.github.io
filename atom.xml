@@ -3,11 +3,11 @@
   <title>victorial&#39;s blog</title>
   
   <subtitle>希望大家都有收获</subtitle>
-  <link href="http://victorial.github.io/atom.xml" rel="self"/>
+  <link href="https://victorial.github.io/atom.xml" rel="self"/>
   
-  <link href="http://victorial.github.io/"/>
+  <link href="https://victorial.github.io/"/>
   <updated>2025-08-30T13:24:28.467Z</updated>
-  <id>http://victorial.github.io/</id>
+  <id>https://victorial.github.io/</id>
   
   <author>
     <name>WANG</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://victorial.github.io/2025/08/30/hello-world/"/>
-    <id>http://victorial.github.io/2025/08/30/hello-world/</id>
+    <link href="https://victorial.github.io/2025/08/30/hello-world/"/>
+    <id>https://victorial.github.io/2025/08/30/hello-world/</id>
     <published>2025-08-30T13:24:28.466Z</published>
     <updated>2025-08-30T13:24:28.467Z</updated>
     
